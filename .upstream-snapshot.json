@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "target": "cla7aye15I4nd/opensource-xorg__libxau",
+  "canonical_upstream": "https://gitlab.freedesktop.org/xorg/lib/libxau",
+  "source": {
+    "kind": "git",
+    "upstream_url": "https://gitlab.freedesktop.org/xorg/lib/libxau.git",
+    "branch": "master",
+    "revision": "be1daeb909f1d678e7859ac1555e90b4e768d5c4"
+  },
+  "publication_review": {
+    "license_files": [
+      "COPYING"
+    ],
+    "notice_files": [
+      "AUTHORS"
+    ],
+    "public_fixture_key_markers": []
+  },
+  "upstream_tree_sha256": "82ee2238fe7cb597bb472bcd5924761484192fbd63f1f3f45fcc35efe4fd0e32",
+  "tree_sha256": "a4918f535f55448a066301c2136fd6342803156621403339358e6205b6c69775"
+}
